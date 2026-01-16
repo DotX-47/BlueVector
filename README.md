@@ -7,7 +7,9 @@ It provides a menu-driven interface for performing common networking, scanning, 
 
 ## 📸 Tool Output Preview
 
-![BlueVector Output](BlueVectoor/Image1.png)
+<p align="center">
+  <img src="BlueVector/Image1.png" width="800">
+</p
 
 
 ## 📌 What is BlueVector?
