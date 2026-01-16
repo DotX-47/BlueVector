@@ -5,6 +5,11 @@ It provides a menu-driven interface for performing common networking, scanning, 
 
 ---
 
+## 📸 Tool Output Preview
+
+![BlueVector Output](BlueVectoor/Image1.png)
+
+
 ## 📌 What is BlueVector?
 
 BlueVector combines multiple network utilities into a single command-line tool.  
@@ -113,6 +118,11 @@ Uses Windows Management Instrumentation (WMI) to query remote Windows systems.
 **OS Support:** Windows only
 
 ---
+
+<p align="center">
+  <img src="BlueVector/Image2.png" width="800">
+</p>
+
 
 ## 🖥️ System Requirements
 
